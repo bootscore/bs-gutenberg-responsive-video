@@ -1,15 +1,15 @@
-=== bS5 Gutenberg Responsive Video ===
+=== bS Gutenberg Responsive Video ===
 
-Contributors: craftwerk
+Contributors: The bootScore Contributors
 
 Requires at least: 4.5
-Tested up to: 5.6.0
+Tested up to: 5.8.1
 Requires PHP: 5.6
 Stable tag: 5.0.0.1
-License: GNU General Public License v2 or later
-License URI: https://www.gnu.org/licenses/gpl-2.0.html
+License: MIT License
+License URI: https://github.com/bootscore/bs-gutenberg-responsive-video/blob/main/LICENSE
 
-This plugin stretches the default Gutenberg video block to the entire width of the container, Copyright 2021 Bastian Kreiter.
+This plugin stretches the default Gutenberg video block to the entire width of the container, Copyright 2021 The bootScore Contributors.
 
 == Installation ==
 
