@@ -1,11 +1,11 @@
 <?php
-/*Plugin Name: bS5 Gutenberg Responsive Video
+/*Plugin Name: bS Gutenberg Responsive Video
 Plugin URI: https://bootscore.me/plugins/bs-gutenberg-responsive-video/
 Description: This plugin stretches the default Gutenberg video block to the entire width of the container.
 Version: 5.0.0.1
 Author: Bastian Kreiter
 Author URI: https://crftwrk.de
-License: GPLv2
+License: MIT License
 Text Domain: bootscore
 */
 
